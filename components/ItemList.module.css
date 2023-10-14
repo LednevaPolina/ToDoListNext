@@ -1,0 +1,12 @@
+.delete {
+    background-color: rgba(193, 94, 94, 0.636);
+  }
+  .delete:hover {
+    background-color: rgb(233, 87, 87);
+  }
+  .check {
+    display: inline-block;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+  }

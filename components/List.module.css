@@ -1,0 +1,8 @@
+.delete {
+    background-color: rgba(193, 94, 94, 0.636);
+  }
+.fieldset{
+    margin: 10px;
+    width: 50%;
+    border-color: rgb(132, 211, 220);
+  }

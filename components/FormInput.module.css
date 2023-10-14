@@ -1,0 +1,16 @@
+.fieldset{
+    margin: 10px;
+    width: 50%;
+    border-color: rgb(132, 211, 220);
+  }
+  .add{
+    background-color:rgb(132, 211, 220);
+  }
+  .add:hover{
+    background-color: rgb(57, 46, 217);
+  }
+  .text{
+    margin: 30px;
+    height: 30px;
+    width: 300px;
+  }
